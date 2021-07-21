@@ -4,3 +4,4 @@ In this article series, we hope to guide you how you can build your own operatin
 
 ## Steps
 - **[Setup booting](part1.md)**
+- **[Implementing C](part2.md)**
